@@ -1,6 +1,6 @@
-## Bhavya Venkataraghavan's First CS 193 Homework
+# Bhavya Venkataraghavan's First CS 193 Homework
 
-# Favorite Things About CS 193
+## Favorite Things About CS 193
 - chill vibe, not a strict lecture setting
 - exploring various cs tools
 - learning more about github and other tools through homework assignments
