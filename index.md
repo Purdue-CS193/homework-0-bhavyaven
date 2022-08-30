@@ -1,3 +1,11 @@
+## Bhavya Venkataraghavan's First CS 193 Homework
+
+#Favorite Things About CS 193
+- chill vibe, not a strict lecture setting
+- exploring various cs tools
+- learning more about github and other tools through homework assignments
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
